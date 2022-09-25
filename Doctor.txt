@@ -1,0 +1,13 @@
+____________
+name: 
+Doctor: khaled
+Question: 
+hello doctor
+I don't understant the last queation in the homework, why we do intergration twise 
+thnx
+______________
+name: admin
+Doctor: Hadeer
+Question: 
+safsafa
+______________
